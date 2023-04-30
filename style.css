@@ -1,0 +1,30 @@
+.main{
+    font-family:"Roboto",sans-serif;
+    text-align: center;
+}
+.main img{
+    height: 430px;
+    object-fit: cover;
+}
+.main .btn{
+    padding:10px 20px ;
+    border: none;
+    border-left: 4px solid #423f3f;
+    border-right: 4px solid #423f3f;
+    border-radius: 8px;
+    margin: 24px 0;
+    font-size: 20px;
+    color: rgb(0, 89, 255);
+    background: #fff;
+    cursor: pointer;
+    transition: all 400ms ease;
+}
+.main .btn:hover{
+    padding: 8px 36px;
+    border-left: 4px solid #423f3f;
+    border-right: 4px solid #423f3f;
+    letter-spacing: 4px;
+
+}
+
+
